@@ -1,8 +1,8 @@
-# CSharp Fundamentals - may 2020 Course
+# [CSharp Fundamentals - may 2020 Course](https://softuni.bg/trainings/2830/csharp-fundamentals-may-2020)
 
 ------------
 
-Here you can find my solutions of all problems (mandatory and optional) from [C# Fundamentals - may 2020](https://softuni.bg/trainings/2830/csharp-fundamentals-may-2020) course. Every solution is tested at SoftUni Judge System with result 100/100. The tasks are sorted by lectures. Also here there are all exam problems from older editions of the course.
+This is the second course I completed at SoftUni. Here you can find my solutions of all problems (mandatory and optional) from the course. Every solution is tested at SoftUni Judge System with result 100/100. The tasks are sorted by lectures. Also here there are all exam problems from older editions of the course.
 
 ------------
 
