@@ -1,0 +1,2 @@
+C:\Users\Ivan\source\repos\06.3.CSharpFundamentals-ObjectsAndClasses-MoreExercise\Practise\obj\Debug\netcoreapp3.1\Practise.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\06.3.CSharpFundamentals-ObjectsAndClasses-MoreExercise\Practise\obj\Debug\netcoreapp3.1\Practise.AssemblyInfo.cs
