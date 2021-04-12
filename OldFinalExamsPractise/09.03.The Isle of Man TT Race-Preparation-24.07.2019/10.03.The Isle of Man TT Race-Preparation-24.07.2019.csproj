@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_10._03.The_Isle_of_Man_TT_Race_Preparation_24._07._2019</RootNamespace>
+  </PropertyGroup>
+
+</Project>
